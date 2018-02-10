@@ -1,0 +1,6 @@
+C:\Users\QuincyC\Documents\GitHub\Algorithms\Mathematical Algorithms\Mathematical Algorithms\bin\Debug\Mathematical Algorithms.exe.config
+C:\Users\QuincyC\Documents\GitHub\Algorithms\Mathematical Algorithms\Mathematical Algorithms\bin\Debug\Mathematical Algorithms.exe
+C:\Users\QuincyC\Documents\GitHub\Algorithms\Mathematical Algorithms\Mathematical Algorithms\bin\Debug\Mathematical Algorithms.pdb
+C:\Users\QuincyC\Documents\GitHub\Algorithms\Mathematical Algorithms\Mathematical Algorithms\obj\Debug\Mathematical Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\QuincyC\Documents\GitHub\Algorithms\Mathematical Algorithms\Mathematical Algorithms\obj\Debug\Mathematical Algorithms.exe
+C:\Users\QuincyC\Documents\GitHub\Algorithms\Mathematical Algorithms\Mathematical Algorithms\obj\Debug\Mathematical Algorithms.pdb
